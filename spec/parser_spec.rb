@@ -1,9 +1,15 @@
 require 'spec_helper'
 
-describe Parser do
+module CookbookReader
+  describe Parser do
 
-  it "executes a block and returns a string" do
-    pending
+    it "should display the data" do
+     pending("I hate rpsec")
+    end
+
+    it "should parse the data" do
+      pending("I hate rpsec")
+    end
+
   end
-
 end
