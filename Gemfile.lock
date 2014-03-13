@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    cookbook-reader (0.1.1)
+    cookbook-reader (0.1.2)
 
 GEM
   remote: http://rubygems.org/
