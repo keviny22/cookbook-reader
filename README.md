@@ -1,4 +1,5 @@
 [![Build Status](https://secure.travis-ci.org/keviny22/cookbook-reader.png)](http://travis-ci.org/keviny22/cookbook-reader)
+[![Gem Version](https://badge.fury.io/rb/cookbook-reader.png)](http://badge.fury.io/rb/cookbook-reader)
 
 
 cookbook-reader
