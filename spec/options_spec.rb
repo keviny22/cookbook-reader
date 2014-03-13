@@ -1,6 +1,7 @@
-require "../lib/cookbook-reader/options"
+require 'spec_helper'
 
-describe CookbookReader::Options do
+describe Options do
+
 
   it "executes a block and returns a string" do
     pending

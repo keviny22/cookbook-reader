@@ -1,6 +1,6 @@
-require "../lib/cookbook-reader/parser"
+require 'spec_helper'
 
-describe CookbookReader::Parser do
+describe Parser do
 
   it "executes a block and returns a string" do
     pending
