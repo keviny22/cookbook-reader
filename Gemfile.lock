@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    cookbook-reader (0.1.0)
+    cookbook-reader (0.1.1)
 
 GEM
   remote: http://rubygems.org/
@@ -31,6 +31,6 @@ DEPENDENCIES
   cookbook-reader!
   fakefs (~> 0.4.2)
   rake
-  rspec (~> 2.13.0)
+  rspec
   simplecov (~> 0.7.1)
   timecop (~> 0.6.1)
