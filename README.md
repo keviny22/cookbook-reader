@@ -13,6 +13,6 @@ Installation:
 
 Usage:
 
-cookbook-reader --path <path to cookbook directory>
+cookbook-reader --path {path to cookbook directory}
 
 
