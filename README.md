@@ -4,4 +4,9 @@
 cookbook-reader
 ===============
 
-A gem for reading a cookbook, for learning Ruby only
+A gem for reading a cookbooks metadata, created for learning Ruby.
+
+Usage: gem install cookbook-reader
+
+cookbook-reader --path <path to cookbook directory>
+

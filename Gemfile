@@ -1,3 +1,3 @@
 source "http://rubygems.org"
-rspec
+gem 'rspec',  :require => 'spec'
 gemspec
