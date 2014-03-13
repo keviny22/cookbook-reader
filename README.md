@@ -5,8 +5,14 @@ cookbook-reader
 ===============
 
 A gem for reading a cookbooks metadata, created for learning Ruby.
+Currently displays all of the dependancies of all cookbooks in the path.
 
-Usage: gem install cookbook-reader
+Installation:
+
+`gem install cookbook-reader`
+
+Usage:
 
 cookbook-reader --path <path to cookbook directory>
+
 
